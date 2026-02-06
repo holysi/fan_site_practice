@@ -1,0 +1,6 @@
+id,member,type,title,date,location,img,video,desc
+1,han,cafe,Cosmic Cafe Event,09.14,"Seoul, Hongdae",https://images.unsplash.com/photo-1554118811-1e0d58224f24?q=80&w=2694&auto=format&fit=crop,,A space themed cafe event with custom cup holders and lucky draw.
+2,lee,ad,Times Square Ad,10.25,"New York, USA",https://images.unsplash.com/photo-1534234828563-025a95cb3145?q=80&w=2574&auto=format&fit=crop,mock_video_url,Global fanbase support project displayed on the big screen.
+3,park,exhibit,Memory Lane Gallery,12.01,"Tokyo, Japan",https://images.unsplash.com/photo-1518998053901-5348d3969104?q=80&w=2574&auto=format&fit=crop,,Photo exhibition featuring unreleased stage photos.
+4,han,ad,Subway Lightbox,09.14,Taipei MRT,https://images.unsplash.com/photo-1447958272669-9c562446304f?q=80&w=2600&auto=format&fit=crop,,Station wide advertisement takeover.
+5,lee,cafe,Scent of You,10.25,"Bangkok, Thailand",https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=2574&auto=format&fit=crop,,Perfume making workshop and birthday celebration.
